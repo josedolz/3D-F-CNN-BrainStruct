@@ -16,12 +16,4 @@ Class numbers are as follows (IBSR):
 - Putamen (R) = 8
 - Pallidum (R) = 9
 
-Class numbers are as follows (ABIDE):
-- Thalamus (L) = 1
-- Caudate (L) = 2
-- Putamen (L) = 3
-- Pallidum (L) = 4
-- Thalamus (R) = 5
-- Caudate (R) = 6
-- Putamen (R) = 7
-- Pallidum (R) = 8
+

@@ -7,4 +7,6 @@ If either segmentation labels or probability maps generated in this large-scale 
 
 [1] Jose Dolz, Christian Desrosiers and Ismail Ben Ayed "3D fully convolutional networks for subcortical segmentation in MRI: A large-scale study".
 
+The code employed to generate these results has been released [here](https://github.com/josedolz/LiviaNET)
+
 For any enquiry or further questions you can reach me at: jose.dolz.upv@gmail.com
